@@ -7,14 +7,8 @@ Bem-vindo ao meu espaço digital! Sou Guilherme, um apaixonado por Ciência da C
 ## 💼 Experiência e Projetos
 
 **Desenvolvedor Front-End | Empresa XPTO**  
-*Período: [Data de Início] - [Data de Término]*
 
-Nesta posição, tive a oportunidade de aprimorar minhas habilidades em HTML, CSS e JavaScript, trabalhando no desenvolvimento de interfaces atraentes e responsivas. Colaborei em projetos cruciais, como [Projeto X], onde liderei a implementação de recursos interativos.
-
-**Sistema de Controle de Estoque | Projeto Acadêmico**  
-*Período: [Data de Início] - [Data de Término]*
-
-Em equipe, desenvolvi um sistema robusto em linguagem C para controle de estoque, aplicando conceitos essenciais de estruturas de dados e algoritmos. A experiência proporcionou uma compreensão mais profunda do desenvolvimento de software em nível de sistema.
+Nesta posição, tive a oportunidade de aprimorar minhas habilidades em HTML, CSS e JavaScript, trabalhando no desenvolvimento de interfaces atraentes e responsivas. Colaborei em projetos cruciais, onde liderei a implementação de recursos interativos.
 
 ---
 
@@ -53,12 +47,10 @@ Durante meu curso, tenho adquirido conhecimento sólido em algoritmos, estrutura
 
 ## 📈 Estatísticas do GitHub
 
-![Estatísticas do GitHub] --
+
 
 ---
 
 ## 🤝 Let's Connect!
 
 Estou aberto a colaborações e oportunidades emocionantes! Se você está procurando um desenvolvedor dedicado e entusiasmado, sinta-se à vontade para entrar em contato.
-
-*Vamos construir algo incrível juntos!* 👨‍💻✨
