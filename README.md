@@ -1,6 +1,6 @@
-## 👋 Olá, mundo!
+## Olá!
 
-Bem-vindo ao meu espaço digital! Sou Guilherme, um apaixonado por Ciência da Computação. Atualmente, estou imerso no universo da programação, explorando desde o front-end até linguagens de baixo nível, como C.
+Bem-vindo ao meu espaço digital! Sou Guilherme, um apaixonado por Ciência da Computação. Atualmente, estou imerso no universo da programação.
 
 ---
 
