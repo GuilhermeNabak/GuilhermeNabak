@@ -48,7 +48,7 @@ Minhas habilidades incluem programação em C e Javascript. Destaco-me pela efic
 
 <div>
 <div>
-<img align="right" alt="GIF" src="https://github.com/GuilhermeNabak/GuilhermeNabak/blob/main/img/side%20img.png?raw=true" width="300px" height="210px"/>
+<img align="right" alt="GIF" src="https://github.com/GuilhermeNabak/GuilhermeNabak/blob/main/img/luxa.org-bordered-side%20img.png" width="300px" height="210px"/>
 </div>
 
 <img height="20" alt="GIF" src="https://github.com/GuilhermeNabak/GuilhermeNabak/blob/main/img/soulgem.gif?raw=true"/>Meus interesses pessoais:
