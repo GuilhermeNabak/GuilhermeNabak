@@ -14,17 +14,17 @@
 <tr>
 <td><a href="https://github.com/GuilhermeNabak" target="_blank"><img src="https://github.com/GuilhermeNabak/GuilhermeNabak/blob/main/img/github.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<td><a href="mailto:davidson.afg@gmail.com" target="_blank"><img src="https://github.com/GuilhermeNabak/GuilhermeNabak/blob/main/img/gmail.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="mailto:guilhermepnabak@gmail.com" target="_blank"><img src="https://github.com/GuilhermeNabak/GuilhermeNabak/blob/main/img/gmail.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<td><a href="https://wa.me/5531992259540" target="_blank"><img src="https://github.com/GuilhermeNabak/GuilhermeNabak/blob/main/img/wpp.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="https://wa.me/5535999391234" target="_blank"><img src="https://github.com/GuilhermeNabak/GuilhermeNabak/blob/main/img/wpp.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<td><a href="https://www.instagram.com/davidson_faria/" target="_blank"><img src="https://github.com/GuilhermeNabak/GuilhermeNabak/blob/main/img/insta.png?raw=true" width="50px" height="50px"/></a>
+<td><a href=" " target="_blank"><img src="https://github.com/GuilhermeNabak/GuilhermeNabak/blob/main/img/insta.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<td><a href="https://www.linkedin.com/in/GuilhermeNabak/" target="_blank"><img src="https://github.com/GuilhermeNabak/GuilhermeNabak/blob/main/img/linkedin.png?raw=true" width="50px" height="50px"/></a>
+<td><a href=" " target="_blank"><img src="https://github.com/GuilhermeNabak/GuilhermeNabak/blob/main/img/linkedin.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<td><a href="https://discordapp.com/users/287784703963168768" target="_blank"><img src="https://github.com/GuilhermeNabak/GuilhermeNabak/blob/main/img/discord.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="https://discordapp.com/users/738466808746737785" target="_blank"><img src="https://github.com/GuilhermeNabak/GuilhermeNabak/blob/main/img/discord.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<td><a href="https://calendly.com/GuilhermeNabak/" target="_blank"><img src="https://github.com/GuilhermeNabak/GuilhermeNabak/blob/main/img/calendar.png?raw=true" width="50px" height="50px"/></a>
+<td><a href=" " target="_blank"><img src="https://github.com/GuilhermeNabak/GuilhermeNabak/blob/main/img/calendar.png?raw=true" width="50px" height="50px"/></a>
 </td>
 </tr>
 <tr>
@@ -33,7 +33,7 @@
 </table>
 
 </div>
-<div align="justify">
+<div align="center">
 <i><b>Olá</b> :wave:, sou o <code>Guilherme</code>, tenho 18 anos, moro em BH e sou Dev. </a></i><br />
 </div>
 
@@ -41,7 +41,7 @@
 
 <img height="20" alt="GIF" src="https://github.com/GuilhermeNabak/GuilhermeNabak/blob/main/img/soulgem.gif?raw=true"/>Sobre mim:
 <div align="justify">
-Minhas habilidades incluem programação em C, Java e Javascript, além de trabalhar com bancos de dados MySQL e MongoDB. Destaco-me pela eficiência no desenvolvimento em C, pela construção de soluções robustas com microsserviços em Java com Spring e pela proficiência em Javascript para aplicações web modernas. Já trabalhei com suporte técnico, oferecendo assistência qualificada aos usuários, resolvendo problemas relacionados à rede e configurações de sistemas operacionais Linux e Windows, oferecendo suporte na instalação e manutenção de software e hardware. Também já trabalhei com alguns sistemas específicos como SAP, WMS, Fluig e Tiflux. Estou sempre em busca de desafios e oportunidades para aprimorar minhas habilidades. Vamos construir algo incrível juntos?
+Minhas habilidades incluem programação em C e Javascript. Destaco-me pela eficiência no desenvolvimento em C e pela proficiência em Javascript para aplicações web modernas. Estou sempre em busca de desafios e oportunidades para aprimorar minhas habilidades. Vamos construir algo incrível juntos?
 </div>
 
 -----
@@ -51,7 +51,7 @@ Minhas habilidades incluem programação em C, Java e Javascript, além de traba
 <img align="right" alt="GIF" src="https://github.com/GuilhermeNabak/GuilhermeNabak/blob/main/img/dev.gif?raw=true" width="300px" height="300px"/>
 </div>
 
-<img height="20" alt="GIF" src="https://github.com/GuilhermeNabak/GuilhermeNabak/blob/main/img/soulgem.gif?raw=true"/>Meus interesses pessoais:
+<img height="20" alt="GIF" src="https://github.com/GuilhermeNabak/GuilhermeNabak/blob/main/img/Screenshot%202024-04-27%20224536.png?raw=true"/>Meus interesses pessoais:
 
 <div align="justify">
 <p>
