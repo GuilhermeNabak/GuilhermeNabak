@@ -82,6 +82,7 @@ Minhas habilidades incluem programação em C e Javascript. Destaco-me pela efic
 <code><a href="https://www.w3schools.com/js/" target="_blank"><img width="32" height="32" src="https://github.com/GuilhermeNabak/GuilhermeNabak/blob/main/img/js.png"/></a></code>
 &nbsp;   
 <code><a href="https://code.visualstudio.com/" target="_blank"><img width="32" height="32" src="https://github.com/GuilhermeNabak/GuilhermeNabak/blob/main/img/vs.png"/></a></code>
+&nbsp;  
 </div>
 
 -----
