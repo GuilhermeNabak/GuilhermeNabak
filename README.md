@@ -56,10 +56,8 @@ Minhas habilidades incluem programação em C e Javascript. Destaco-me pela efic
 <div align="justify">
 <p>
 - :man_student: &nbsp; Sou estudante de Ciências da Computação.<br />
-- :briefcase: &nbsp; Tenho interesse em vagas para Dev Jr.<br />
 - :soccer:&nbsp; Sou cruzeirense, lógico! 🦊<br />
 - :airplane: &nbsp; Adoro viajar e conhecer novos lugares.<br />
-- :video_game: &nbsp; Gosto de jogar Minecraft nas horas vagas.<br />
 - :speech_balloon: &nbsp; Pergunte-me sobre qualquer coisa, adoro ajudar pessoas.<br />
 - :mailbox: &nbsp; Para me encontrar, esse é meu <a href="https://mail.google.com/mail/u/0/?pli=1#inbox" target="_blank">e-mail</a> pessoal.<br />
 - :calendar: &nbsp; Essa é minha <a href="https://calendly.com/GuilhermeNabak/30min" target="_blank">agenda</a> se quiser marcar um horário para falarmos.<br />
@@ -73,7 +71,7 @@ Minhas habilidades incluem programação em C e Javascript. Destaco-me pela efic
 
 <img height="20" alt="GIF" src="https://github.com/GuilhermeNabak/GuilhermeNabak/blob/main/img/soulgem.gif?raw=true"/>&nbsp;Linguagens e ferramentas:
 
-<code><a href="https://www.python.org/" target="_blank"><img width="32" height="32" src="https://github.com/GuilhermeNabak/GuilhermeNabak/blob/main/img/java.png"/></a></code>
+<code><a href="https://www.java.org/" target="_blank"><img width="32" height="32" src="https://github.com/GuilhermeNabak/GuilhermeNabak/blob/main/img/java.png"/></a></code>
 &nbsp; 
 <code><a href="https://www.open-std.org/jtc1/sc22/wg14/" target="_blank"><img width="32" height="32" src="https://github.com/GuilhermeNabak/GuilhermeNabak/blob/main/img/c.png?raw=true"/></a></code>
 &nbsp;
