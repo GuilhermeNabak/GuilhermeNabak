@@ -73,7 +73,7 @@ Minhas habilidades incluem programação em C e Javascript. Destaco-me pela efic
 
 <img height="20" alt="GIF" src="https://github.com/GuilhermeNabak/GuilhermeNabak/blob/main/img/soulgem.gif?raw=true"/>&nbsp;Linguagens e ferramentas:
 
-<code><a href="https://www.python.org/" target="_blank"><img width="32" height="32" src="https://github.com/GuilhermeNabak/GuilhermeNabak/blob/main/img/python.png?raw=true"/></a></code>
+<code><a href="https://www.python.org/" target="_blank"><img width="32" height="32" src="https://github.com/GuilhermeNabak/GuilhermeNabak/blob/main/img/java.png"/></a></code>
 &nbsp; 
 <code><a href="https://www.open-std.org/jtc1/sc22/wg14/" target="_blank"><img width="32" height="32" src="https://github.com/GuilhermeNabak/GuilhermeNabak/blob/main/img/c.png?raw=true"/></a></code>
 &nbsp;
