@@ -61,6 +61,8 @@ Minhas habilidades incluem programação em C e Javascript. Destaco-me pela efic
 - :speech_balloon: &nbsp; Pergunte-me sobre qualquer coisa, adoro ajudar pessoas.<br />
 - :mailbox: &nbsp; Para me encontrar, esse é meu <a href="https://mail.google.com/mail/u/0/?pli=1#inbox" target="_blank">e-mail</a> pessoal.<br />
 - :calendar: &nbsp; Essa é minha <a href="https://calendly.com/GuilhermeNabak/30min" target="_blank">agenda</a> se quiser marcar um horário para falarmos.<br />
+
+ 
 </p>
 </div>
 </div>
