@@ -41,7 +41,7 @@
 
 <img height="20" alt="GIF" src="https://github.com/GuilhermeNabak/GuilhermeNabak/blob/main/img/soulgem.gif?raw=true"/>Sobre mim:
 <div align="justify">
-Minhas habilidades incluem programação em C e Javascript. Destaco-me pela eficiência no desenvolvimento em C e pela proficiência em Javascript para aplicações web modernas. Estou sempre em busca de desafios e oportunidades para aprimorar minhas habilidades. Vamos construir algo incrível juntos?
+Minhas habilidades incluem programação em C e Java. Destaco-me pela eficiência no desenvolvimento em C e pela proficiência em Java para aplicações modernas. Estou sempre em busca de desafios e oportunidades para aprimorar minhas habilidades. Vamos construir algo incrível juntos?
 </div>
 
 -----
