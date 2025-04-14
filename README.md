@@ -34,7 +34,7 @@
 
 </div>
 <div align="center">
-<i><b>Olá</b> :wave:, sou o <code>Guilherme</code>, tenho 18 anos, moro em BH e sou Dev. </a></i><br />
+<i><b>Olá</b> :wave:, sou o <code>Guilherme</code>, tenho 19 anos, moro em BH e sou Dev. </a></i><br />
 </div>
 
 -----
