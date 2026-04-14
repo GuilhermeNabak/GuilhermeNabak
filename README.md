@@ -68,7 +68,8 @@ Minhas habilidades incluem programação em C e Java. Destaco-me pela eficiênci
 </div>
 </div>
 
-<br>
+
+
 -----
 
 <div>
