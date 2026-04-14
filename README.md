@@ -34,7 +34,7 @@
 
 </div>
 <div align="center">
-Olá :wave:, sou o Guilherme<, moro em BH e sou da area da Ciência da Computação. </a></i><br />
+Olá :wave:, sou o Guilherme<, moro em BH e sou da area de Ciência da Computação. </a></i><br />
 </div>
 
 -----
@@ -51,7 +51,7 @@ Minhas habilidades incluem programação em C e Java. Destaco-me pela eficiênci
 <img align="right" alt="GIF" src="https://github.com/GuilhermeNabak/GuilhermeNabak/blob/main/img/skills.gif" width="300px" height="210px"/>
 </div>
 
-## Meus interesses pessoais:
+<span style="font-size:24px; font-weight:bold;">Meus interesses pessoais:</span>
 
 <div align="justify">
 <p>
