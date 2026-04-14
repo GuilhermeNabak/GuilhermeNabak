@@ -34,12 +34,12 @@
 
 </div>
 <div align="center">
-<i><b>Olá</b> :wave:, sou o <code>Guilherme</code>, tenho 19 anos, moro em BH e sou Dev. </a></i><br />
+Olá :wave:, sou o Guilherme<, moro em BH e sou da area da Ciência da Computação. </a></i><br />
 </div>
 
 -----
 
-<img height="20" alt="GIF" src="https://github.com/GuilhermeNabak/GuilhermeNabak/blob/main/img/soulgem.gif?raw=true"/>Sobre mim:
+## Sobre mim:
 <div align="justify">
 Minhas habilidades incluem programação em C e Java. Destaco-me pela eficiência no desenvolvimento em C e pela proficiência em Java para aplicações modernas. Estou sempre em busca de desafios e oportunidades para aprimorar minhas habilidades. Vamos construir algo incrível juntos?
 </div>
@@ -48,10 +48,10 @@ Minhas habilidades incluem programação em C e Java. Destaco-me pela eficiênci
 
 <div>
 <div>
-<img align="right" alt="GIF" src="https://github.com/GuilhermeNabak/GuilhermeNabak/blob/main/img/luxa.org-bordered-side%20img.png" width="300px" height="210px"/>
+<img align="right" alt="GIF" src="https://github.com/GuilhermeNabak/GuilhermeNabak/blob/main/img/skills.gif" width="300px" height="210px"/>
 </div>
 
-<img height="20" alt="GIF" src="https://github.com/GuilhermeNabak/GuilhermeNabak/blob/main/img/soulgem.gif?raw=true"/>Meus interesses pessoais:
+## Meus interesses pessoais:
 
 <div align="justify">
 <p>
@@ -74,7 +74,7 @@ Minhas habilidades incluem programação em C e Java. Destaco-me pela eficiênci
 
 <div>
 
-<img height="20" alt="GIF" src="https://github.com/GuilhermeNabak/GuilhermeNabak/blob/main/img/soulgem.gif?raw=true"/>&nbsp;Linguagens e ferramentas:
+## Linguagens e ferramentas:
 
 <code><a href="https://www.java.org/" target="_blank"><img width="32" height="32" src="https://github.com/GuilhermeNabak/GuilhermeNabak/blob/main/img/java.png"/></a></code>
 &nbsp; 
@@ -96,7 +96,7 @@ Minhas habilidades incluem programação em C e Java. Destaco-me pela eficiênci
 
 -----
 
-<img height="20" alt="GIF" src="https://github.com/GuilhermeNabak/GuilhermeNabak/blob/main/img/soulgem.gif?raw=true"/>GitHub Stats:
+## GitHub Stats:
 
 <div>
 <img align="right" alt="GitHub Details" width="420px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GuilhermeNabak&theme=github_dark"/>
