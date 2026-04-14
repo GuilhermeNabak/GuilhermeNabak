@@ -39,7 +39,7 @@ Olá :wave:, sou o Guilherme<, moro em BH e sou da area de Ciência da Computaç
 
 -----
 
-## Sobre mim:
+### Sobre mim:
 <div align="justify">
 Minhas habilidades incluem programação em C e Java. Destaco-me pela eficiência no desenvolvimento em C e pela proficiência em Java para aplicações modernas. Estou sempre em busca de desafios e oportunidades para aprimorar minhas habilidades. Vamos construir algo incrível juntos?
 </div>
@@ -51,7 +51,7 @@ Minhas habilidades incluem programação em C e Java. Destaco-me pela eficiênci
 <img align="right" alt="GIF" src="https://github.com/GuilhermeNabak/GuilhermeNabak/blob/main/img/skills.gif" width="300px" height="210px"/>
 </div>
 
-<span style="font-size:24px; font-weight:bold;">Meus interesses pessoais:</span>
+### Meus interesses pessoais:
 
 <div align="justify">
 <p>
@@ -74,7 +74,7 @@ Minhas habilidades incluem programação em C e Java. Destaco-me pela eficiênci
 
 <div>
 
-## Linguagens e ferramentas:
+### Linguagens e ferramentas:
 
 <code><a href="https://www.java.org/" target="_blank"><img width="32" height="32" src="https://github.com/GuilhermeNabak/GuilhermeNabak/blob/main/img/java.png"/></a></code>
 &nbsp; 
@@ -96,7 +96,7 @@ Minhas habilidades incluem programação em C e Java. Destaco-me pela eficiênci
 
 -----
 
-## GitHub Stats:
+### GitHub Stats:
 
 <div>
 <img align="right" alt="GitHub Details" width="420px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GuilhermeNabak&theme=github_dark"/>
