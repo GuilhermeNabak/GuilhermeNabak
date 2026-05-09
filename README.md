@@ -34,7 +34,7 @@
 
 </div>
 <div align="center">
-Olá :wave:, sou o Guilherme<, moro em BH e sou da area de Ciência da Computação. </a></i><br />
+Olá :wave:, sou o Guilherme, moro em BH e sou da area de Ciência da Computação. </a></i><br />
 </div>
 
 -----
